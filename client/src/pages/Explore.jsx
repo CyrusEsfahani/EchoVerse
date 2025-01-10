@@ -1,5 +1,5 @@
 import React from 'react';
-import ThreeScene from '../three/ThreeScene';
+import ThreeScene from '../components/ThreeScene';
 
 const Explore = () => (
     <div className="min-h-screen">
